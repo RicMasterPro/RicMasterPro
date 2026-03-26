@@ -2,7 +2,7 @@
 
 # 👋 Ciao, Mondo!
 
-Sono Riccardo Paregiani conosciuto online come RicMasterPro.<br>
+Sono Riccardo Paregiani, conosciuto online come RicMasterPro.<br>
 Sono uno sviluppatore italiano con una forte passione per la programmazione, specializzato nello sviluppo di applicazioni.<br>
 Se trovi qualcosa di interessante nei miei progetti fammi sapere cosa ne pensi: ogni feedback mi aiuta a crescere.
 
@@ -33,7 +33,8 @@ Su questo profilo troverai esperimenti tecnici e tool con l'obiettivo di:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Scratch](https://img.shields.io/badge/Scratch-F9A83A?style=for-the-badge&logo=scratch&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-2F2F2F?style=for-the-badge&logo=json&logoColor=white)
+![XML](https://img.shields.io/badge/XML-F2F2F2?style=for-the-badge&logo=xml&logoColor=black)
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-FF6F00?style=for-the-badge&logo=blender&logoColor=white)
