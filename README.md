@@ -1,4 +1,4 @@
-<img width="500" height="500" alt="tXpYPM" src="https://img.itch.zone/aW1nLzI0NzE5MTc3LnBuZw==/original/tXpYPM.png">
+<img alt="Logo" src="https://img.itch.zone/aW1nLzI0NzE5MTc3LnBuZw==/original/tXpYPM.png">
 
 # 👋 Ciao, Mondo!
 
