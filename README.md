@@ -43,17 +43,19 @@ Su questo profilo troverai esperimenti tecnici e tool con l'obiettivo di:
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-FF6F00?style=for-the-badge&logo=blender&logoColor=white)
 ![AutoCAD LT](https://img.shields.io/badge/AutoCAD%20LT-E51050?style=for-the-badge&logo=autocad&logoColor=white)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-00BCEB?style=for-the-badge&logo=cisco&logoColor=white)
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=jetbrains&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-009C51?style=for-the-badge&logo=notepadplusplus&logoColor=white)
 ![Dev-C++](https://img.shields.io/badge/Dev--C++-00599C?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=openjsfoundation&logoColor=white) 
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white) 
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-00BCEB?style=for-the-badge&logo=cisco&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) 
 ![Multisim](https://img.shields.io/badge/Multisim-4B0082?style=for-the-badge&logo=multisim&logoColor=white)
 
