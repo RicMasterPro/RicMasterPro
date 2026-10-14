@@ -25,11 +25,13 @@ Su questo profilo troverai esperimenti tecnici e tool con l'obiettivo di:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 ![Flowgorithm](https://img.shields.io/badge/Flowgorithm-FF793F?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Scratch](https://img.shields.io/badge/Scratch-F9A83A?style=for-the-badge&logo=scratch&logoColor=white)
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-FF6600?style=for-the-badge&logo=apache&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![FileZilla](https://img.shields.io/badge/FileZilla-FD2D22?style=for-the-badge&logo=filezilla&logoColor=white)
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,7 +44,6 @@ Su questo profilo troverai esperimenti tecnici e tool con l'obiettivo di:
 ![Blender](https://img.shields.io/badge/Blender-FF6F00?style=for-the-badge&logo=blender&logoColor=white)
 ![AutoCAD LT](https://img.shields.io/badge/AutoCAD%20LT-E51050?style=for-the-badge&logo=autocad&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-00BCEB?style=for-the-badge&logo=cisco&logoColor=white)
-![Scratch](https://img.shields.io/badge/Scratch-F9A83A?style=for-the-badge&logo=scratch&logoColor=white)
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=jetbrains&logoColor=white)
@@ -51,10 +52,10 @@ Su questo profilo troverai esperimenti tecnici e tool con l'obiettivo di:
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=openjsfoundation&logoColor=white) 
+![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) 
 ![Multisim](https://img.shields.io/badge/Multisim-4B0082?style=for-the-badge&logo=multisim&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Cheat Engine](https://img.shields.io/badge/Cheat%20Engine-016699?style=for-the-badge&logo=contao&logoColor=white)
 ![ILSpy](https://img.shields.io/badge/ILSpy-A8B9CC?style=for-the-badge&logo=searxng&logoColor=white)
